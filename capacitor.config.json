@@ -1,0 +1,8 @@
+{
+  "appId": "uk.lusoriders.game",
+  "appName": "Luso Riders UK",
+  "webDir": "www",
+  "android": {
+    "adjustMarginsForEdgeToEdge": "auto"
+  }
+}

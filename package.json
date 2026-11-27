@@ -1,0 +1,14 @@
+{
+  "name": "luso-riders-uk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Luso Riders UK - jogo idle do clube de motas",
+  "dependencies": {
+    "@capacitor/android": "^8.6.3",
+    "@capacitor/cli": "^8.6.3",
+    "@capacitor/core": "^8.6.3"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^4.0.0"
+  }
+}
